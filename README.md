@@ -5,8 +5,8 @@ Open Manipulator Blueprint for Unrael Engine 5
 ## Overview
 
 This is sample of Open Manipulator created for Unreal Engine 5.  
-Click on the image below to play the video.  
-[![OpenManipulator.png](./image/OpenManipulator.jpg)]('https://www.youtube.com/watch?v=gl_4xUENoJc')  
+▼Click on the image below to play the video.  
+[![OpenManipulator.png](./image/OpenManipulator.jpg)](https://youtu.be/gl_4xUENoJc)  
 
 This sample uses Open Manipulator STL files.  
 <https://github.com/ROBOTIS-GIT/open_manipulator>  
